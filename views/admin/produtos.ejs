@@ -1,0 +1,17 @@
+<%- include('header') %>
+    <h2>
+        Admin Produtos
+        <a href="/admin/novo-produto">Cadastrar produto</a>
+    </h2>
+    <div>
+        <ul>
+            <% produtos.forEach( produto => { %>
+                <li>
+                    <%- produto.titulo %> | 
+                    <a href="/admin/produtos/editar/<%- produto.id %>">Editar</a> | 
+                    <a href="/admin/produtos/delete/<%- produto.id %>">Excluir</a>
+                </li>
+            <% }) %>
+        </ul>
+    </div>
+<%- include('footer') %>

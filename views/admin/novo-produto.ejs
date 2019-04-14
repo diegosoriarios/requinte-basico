@@ -1,0 +1,27 @@
+<%- include('header') %>
+    <h2>
+        Admin Criar Produto
+        <a href="/admin/produtos">Mostrar produtos</a>
+    </h2>
+    <div>
+        <form method="POST">
+            <label>Titulo:</label>
+            <input type="text" name="titulo">
+            <br>
+            <label>Descricao:</label>
+            <textarea name="descricao"></textarea>
+            <br>
+            <label>Categoria:</label>
+            <select name="categoria">
+                <% categorias.forEach( categoria => { %>
+                    <option value="<%= categoria.id %>"><%= categoria.categoria %></option>
+                <% }) %>
+            </select>
+            <br>
+            <label>Preco:</label>
+            <input type="text" name="preco">
+            <br>
+            <button>Salvar Produto</button>
+        </form>
+    </div>
+<%- include('footer') %>
