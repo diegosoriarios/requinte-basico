@@ -15,8 +15,7 @@ app.set('view engine', 'ejs')
 app.use(express.static(path.resolve(__dirname, 'public')))
 app.use(bodyParser.urlencoded({ extended: true }))
 
-
-app.use('/admin', require('./route/admin.js'))
+app.use('/admin', require('./routes/admin/index.js'))
 
 app.get('/', async (req, res) => {
     const db = await dbConnection
