@@ -63,7 +63,7 @@ margin-right: 0px!important;
 .underline-blue{width: 70px; height: 2px; background-color: mediumblue;}
 .underline-black{width: 70px; height: 2px; background-color: black;}
 
-.card-body{text-align: center;}
+.card-body{text-align: center; min-height: 20vh}
 
 .blog .media img{ max-width: 200px; height: auto;}
 
