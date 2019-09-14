@@ -1,0 +1,16 @@
+{
+  "name": "requinte-basico",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "paulocesarcit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.19.2"
+  }
+}
