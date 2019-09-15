@@ -6,10 +6,7 @@ const app = express()
 
 // MONGO
 // const mongoose = require('mongoose')
-// mongoose.connect('mongodb+srv://admin:cszao0101@cluster0-llrk5.mongodb.net/test?retryWrites=true&w=majority&keepAlive=true&poolSize=30&autoReconnect=true&socketTimeoutMS=360000&connectTimeoutMS=360000', {useNewUrlParser: true,  useUnifiedTopology: true })
-
-// LOCALHOST
-// mongoose.connect('mongodb://127.0.0.1/cs', {useNewUrlParser: true,  useUnifiedTopology: true })
+// mongoose.connect('mongodb+srv://admin:requinte1@cluster0-rkifc.mongodb.net/test?retryWrites=true&w=majority', {useNewUrlParser: true,  useUnifiedTopology: true })
 
 // MODEL
 // const Produto = mongoose.model('Produto', { nome: String, categoria: String })
