@@ -29,6 +29,11 @@ app.get('/produtos', (req, res) => {
     console.log("Redirecionado para Produtos")
 })
 
+app.get('/acessorios', (req, res) => {
+    res.sendFile(path.join(__dirname + '/views/acessorios.html'))
+    console.log("Redirecionado para Produtos")
+})
+
 app.get('/empresa', (req, res) => {
     res.sendFile(path.join(__dirname + '/views/empresa.html'))
     console.log("Redirecionado para Empresa")
