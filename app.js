@@ -18,29 +18,29 @@ app.use(express.static(__dirname + '/views'))
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '/views/index.html'))
-    console.log("Redirecionado para Home")
+    // console.log("Redirecionado para Home")
 });
 
 app.get('/produtos', (req, res) => {
     res.sendFile(path.join(__dirname + '/views/produtos.html'))
-    console.log("Redirecionado para Produtos")
+    // console.log("Redirecionado para Produtos")
 })
 
 app.get('/acessorios', (req, res) => {
     res.sendFile(path.join(__dirname + '/views/acessorios.html'))
-    console.log("Redirecionado para Produtos")
+    // console.log("Redirecionado para Produtos")
 })
 
 app.get('/empresa', (req, res) => {
     res.sendFile(path.join(__dirname + '/views/empresa.html'))
-    console.log("Redirecionado para Empresa")
+    // console.log("Redirecionado para Empresa")
 })
 
 app.get('/contato', (req, res) => {
     res.sendFile(path.join(__dirname + '/views/contato.html'))
-    console.log("Redirecionado para Contato")
+    // console.log("Redirecionado para Contato")
 })
 
 app.listen(3000, () => {
-	console.log("Servidor rodando na porta ", 3000)
+	// console.log("Servidor rodando na porta ", 3000)
 })
