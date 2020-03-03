@@ -734,5 +734,12 @@
                 }
             ]
         }
+    ],
+    "acessorios": [
+        { "name": "Suporte de Tacos", "subtitle": "", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/2_1.jpg" },
+        { "name": "Triângulo e Jogo de Bolas", "subtitle": "", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/3_1.jpg" },
+        { "name": "Bolas", "subtitle": "", "images": "" },
+        { "name": "Giz Profissional", "subtitle": "", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/5_1.jpg" },
+        { "name": "Alvo dardo magnético", "subtitle": "Acompanha manta dupla face de 6 dardos.", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/79_1.png" }
     ]
 }
