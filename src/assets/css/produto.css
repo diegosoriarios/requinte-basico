@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
 
+.video-background {
+    position: relative;
+    width: 100%;
+    min-height: 40vh;
+}
+  
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
 * {
     list-style: none;
 }
