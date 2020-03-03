@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import VideoBackground from '../../components/VideoBackground'
 import data from '../../services/data.json'
-import styled from 'styled-components'
+import { ColoredColumn, Linha, Image } from './styles'
 
 function Acessorios() {
 
@@ -15,6 +15,8 @@ function Acessorios() {
     
     if (load) return null
 
+    console.log(dados)
+
     return (
         <>
             <VideoBackground title={"MESAS DE BILHAR"} subtitle={"LINHA DELUXE"} />
@@ -25,7 +27,7 @@ function Acessorios() {
                             <h2>{acessorios.name}</h2>
                             <h5>{acessorios.descricao}</h5>
                         </ColoredColumn>
-                        <img src={acessorios.img} alt={acessorios.name} />
+                        <Image src={acessorios.images} alt={acessorios.name} />
                     </Linha>
                 ))
             }
@@ -34,13 +36,3 @@ function Acessorios() {
 }
 
 export default Acessorios
-
-const Linha = styled.div`
-    display: flex;
-    flex-direction: row;
-`
-
-const ColoredColumn = styled.div`
-    background-color: #998675;
-    height: 150px;
-`

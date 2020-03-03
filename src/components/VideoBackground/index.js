@@ -6,7 +6,7 @@ function VideoBackground({ title, subtitle }) {
             <div className="video-background">
                 <div className="video-wrap">
                     <div id="video">
-                        <img src={require('../../assets/img/masinha.jpg')} className="vo-da-um-soco" />
+                        <img src={require('../../assets/img/masinha.jpg')} className="vo-da-um-soco" alt="main" />
                     </div>
                 </div>
             </div>

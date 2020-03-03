@@ -4,8 +4,6 @@ import {
   Switch,
   Route,
   Link,
-  useRouteMatch,
-  useParams
 } from "react-router-dom";
 
 import Home from './pages/Home'
@@ -22,9 +20,9 @@ import Acessorios from "./pages/Acessorios";
 export default function App() {
   return (
     <Router>
-      <div className="container-fluid">
+      <div>
         <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
-          <Link className="navbar-brand" style={{marginLeft: '5%', marginRight: '5%'}} to="/"><img src={logo} /></Link>
+          <Link className="navbar-brand" style={{marginLeft: '5%', marginRight: '5%'}} to="/"><img src={logo} alt="logo" /></Link>
 	
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
@@ -64,43 +62,4 @@ export default function App() {
       <Footer />
     </Router>
   );
-}
-
-function Topics() {
-  let match = useRouteMatch();
-
-  return (
-    <div>
-      <h2>Topics</h2>
-
-      <ul>
-        <li>
-          <Link to={`${match.url}/components`}>Components</Link>
-        </li>
-        <li>
-          <Link to={`${match.url}/props-v-state`}>
-            Props v. State
-          </Link>
-        </li>
-      </ul>
-
-      {/* The Topics page has its own <Switch> with more routes
-          that build on the /topics URL path. You can think of the
-          2nd <Route> here as an "index" page for all topics, or
-          the page that is shown when no topic is selected */}
-      <Switch>
-        <Route path={`${match.path}/:topicId`}>
-          <Topic />
-        </Route>
-        <Route path={match.path}>
-          <h3>Please select a topic.</h3>
-        </Route>
-      </Switch>
-    </div>
-  );
-}
-
-function Topic() {
-  let { topicId } = useParams();
-  return <h3>Requested topic ID: {topicId}</h3>;
 }

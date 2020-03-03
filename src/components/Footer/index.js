@@ -15,13 +15,13 @@ function Footer() {
 					        </div>
 					        <div className="row">
 						        <div className="col-md-3 col-sm-3">
-							        <a href="https://instagram.com/requintebasicobrasil?igshid=1uia5q2gwn7pd" target="_blank"><img src={require('../../assets/img/instagram.png')} className="social-icon" /></a>
+							        <a href="https://instagram.com/requintebasicobrasil?igshid=1uia5q2gwn7pd" rel="noopener noreferrer" target="_blank"><img src={require('../../assets/img/instagram.png')} alt="instagram" className="social-icon" /></a>
 						        </div>
 						        <div className="col-md-3 col-sm-3">
-							        <a href="https://www.facebook.com/requintebasicobrasil/" target="_blank"><img src={require('../../assets/img/facebook.png')} className="social-icon" /></a>
+							        <a href="https://www.facebook.com/requintebasicobrasil/" rel="noopener noreferrer" target="_blank"><img src={require('../../assets/img/facebook.png')} alt="facebook" className="social-icon" /></a>
 						        </div>
 						        <div className="col-md-3 col-sm-3">
-							        <a href="https://api.whatsapp.com/send?phone=5554997064410" target="_blank"><img src={require('../../assets/img/whatsapp.png')} className="social-icon" /></a>
+							        <a href="https://api.whatsapp.com/send?phone=5554997064410" rel="noopener noreferrer" target="_blank"><img src={require('../../assets/img/whatsapp.png')} alt="whatsapp" className="social-icon" /></a>
 						        </div>
 					        </div>
 				        </div>
@@ -39,7 +39,7 @@ function Footer() {
 					    </div>
 					    <div className="row">
     						<div className="col-md-3 col-sm-3">
-	    						<a href="#"><img src={require('../../assets/img/demi.png')} className="social-icon" /></a>
+	    						<a href="#"><img src={require('../../assets/img/demi.png')} className="social-icon" alt="demi" /></a>
 		    				</div>
 			    		</div>
 				    </div>
