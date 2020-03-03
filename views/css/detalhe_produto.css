@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
+
+* {
+    list-style: none;
+}
+
+p, .description-box {
+    font-family: Ubuntu,Arial,sans-serif;
+    font-size: .9em;
+    color: #603913;
+    font-size: 16px;
+    font-family: Ubuntu,Arial,sans-serif;
+    color: #603913;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.title .title-text {
+    width: 80%;
+    font-size: 2em;
+    font-weight: lighter;
+    margin: 5% 0;
+}
+
+#strong {
+    font-weight: bold;
+}
+
+.custom-container, .main-bottom {
+    padding: 2% 17%;
+    width: 100%;
+    display: grid; 
+}
+
+.custom-container {
+    grid-template-columns: 1fr 1fr;
+}
+
+.main-bottom {
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+}
+
+.description-box {
+    width: 100%;
+    font-weight: normal;
+}
+
+.image-box {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.image-box .bigger {
+    margin-top: -100px;
+    opacity: 1 !important;
+    z-index: 2;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.image-box .small{
+    margin: 50px 0;
+}
+
+.accessories p, .dimensions p {
+    color: #969696;
+}
+
+.budget {
+    background-color: #e15353;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    color: white;
+    border-radius: 25px;
+    transition: 0.3s;
+}
+
+.budget:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #d92828;
+}
+
+.secondary-text {
+    color: #603913;
+    font-family: Ubuntu;
+    font-weight: 100;
+}
+
+.dimensions-box {
+    margin: 0 1%;
+}
+
+.dimensions-box h5, .dimensions-box p {
+    font-size: .8em;
+    text-transform: uppercase;
+}
+
+.accessories .acessorios-desc {
+    font-size: .8em;
+}
+
+@media screen and (max-width: 992px) {
+    .custom-container, .main-bottom {
+        padding: 2% 17%;
+        width: 100%;
+        display: block; 
+    }
+    
+    .image-box .bigger {
+        margin-top: 10px;
+        opacity: 1 !important;
+        z-index: 2;
+        background-color: rgba(255, 255, 255, 1);
+        width: 100%;
+    }
+
+    .clearfix {
+        margin: 5% 2%;
+    }
+}
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: white;
+    }
+  }
