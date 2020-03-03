@@ -111,14 +111,3 @@ footer ul{text-decoration: none; list-style-type: none;}
   background: #7682cc;
   color: #ffffff;
 }
-
-.video-background {
-  position: relative;
-  width: 100%;
-  min-height: 40vh;
-}
-
-.col-centered {
-  float: none;
-  margin: 0 auto;
-}
