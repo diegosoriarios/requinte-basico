@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import VideoBackground from '../../components/VideoBackground';
 import { Item, ItemImage, Grid } from './styles'
 import { Link } from 'react-router-dom';
+import ReactImageMagnify from 'react-image-magnify';
 
 export default function Produto({ name, produto }) {
     const [currentImage, setCurrentImage] = useState('')
@@ -26,7 +27,7 @@ export default function Produto({ name, produto }) {
 					<div className="row title">
 						<span className="title-text">
 							MESA
-							<span id="strong" class="text-uppercase">
+							<span id="strong" className="text-uppercase">
 								{` ${produto.name}`}
 							</span>
 						</span>
@@ -44,7 +45,22 @@ export default function Produto({ name, produto }) {
 				</div>
 
 				<div className="image-box">
-					<img className="bigger" id="main-mesa" src={currentImage} alt="mesa1" />
+					<ReactImageMagnify {...{
+						smallImage: {
+							alt: 'Wristwatch by Ted Baker London',
+							isFluidWidth: true,
+							src: `${currentImage}`
+						},
+						largeImage: {
+							src: `${currentImage}`,
+							width: 1200,
+							height: 1800
+						},
+						enlargedImageContainerStyle: {
+							left: '-105%',
+						},
+					}} />
+					{/*<img className="bigger" id="main-mesa" src={currentImage} alt="mesa1" />*/}
 					<ul className="colors text-center small">
                 		{
 							produto.images.small.map((img, i) => (
@@ -62,12 +78,12 @@ export default function Produto({ name, produto }) {
 				<h4 className="secondary-text">CORES</h4>
 		        	<div className="float-left dimensions-box">
 			        	<h5 className="light upper">Tecido</h5>
-			        	<img src="http://www.globilhares.com.br/r/w20-h20/color_bg/3_1.png" alt="cor" />
-			        	<img src="http://www.globilhares.com.br/r/w20-h20/color_bg/1_1.png" alt="cor" /><br />
-			        	<img src="http://www.globilhares.com.br/r/w20-h20/color_bg/5_1.png" alt="cor" />
-			        	<img src="http://www.globilhares.com.br/r/w20-h20/color_bg/4_1.png" alt="cor" /><br />
-			        	<img src="http://www.globilhares.com.br/r/w20-h20/color_bg/6_1.png" alt="cor" />
-			        	<img src="http://www.globilhares.com.br/r/w20-h20/color_bg/2_1.png" alt="cor" /><br />
+			        	<img src={require('../../assets/img/cores/vermelho.png')} alt="cor" />
+			        	<img src={require('../../assets/img/cores/verde.png')} alt="cor" /><br />
+			        	<img src={require('../../assets/img/cores/preto.png')} alt="cor" />
+			        	<img src={require('../../assets/img/cores/vermelhoEscuro.png')} alt="cor" /><br />
+			        	<img src={require('../../assets/img/cores/azul.png')} alt="cor" />
+			        	<img src={require('../../assets/img/cores/amarelo.png')} alt="cor" /><br />
 		        	</div>
 				</div>
 
