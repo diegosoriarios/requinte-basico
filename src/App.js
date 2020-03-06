@@ -15,7 +15,6 @@ import './assets/css/bootstrap-4.1.3-dist/css/bootstrap.css'
 import Footer from "./components/Footer";
 import Produtos from "./pages/Produtos";
 import Contato from "./pages/Contato";
-import Acessorios from "./pages/Acessorios";
 
 export default function App() {
   return (
@@ -34,9 +33,6 @@ export default function App() {
                 <Link className="nav-link" to="/produtos">Produtos</Link>
               </li>
               <li className="nav-item marginzinha">
-                <Link className="nav-link" to="/acessorios">Acessórios</Link>
-              </li>
-              <li className="nav-item marginzinha">
                 <Link className="nav-link" to="/contato">Contato</Link>
               </li>
             </ul>
@@ -47,9 +43,6 @@ export default function App() {
         <Switch>
           <Route path="/contato">
             <Contato />
-          </Route>
-          <Route path="/acessorios">
-            <Acessorios />
           </Route>
           <Route path="/produtos">
             <Produtos />

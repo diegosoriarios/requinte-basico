@@ -17,7 +17,7 @@ function Linhas({ name, categorias}) {
                     <div className="row" key={i}>
                         <div className="col-md-6">
                             <div className="media mt-5">
-                                <img src={categoria.images.big[0]} className="img-fluid mr-3" alt="media1" />
+                                <img src={require(categoria.images[0])} className="img-fluid mr-3" alt="media1" />
                                 <div className="media-body mt-2">
                                     <h4>{categoria.name}</h4>
                                     <br />

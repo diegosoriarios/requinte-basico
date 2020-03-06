@@ -8,13 +8,13 @@ export default function Produto({ name, produto }) {
 
     useEffect(() => {
 		if (produto.images.big > 0) {
-			setCurrentImage(produto.images.big[0])
+			setCurrentImage(require(produto.images[0]))
 		}
 	}, [])
 	
 	function changeImage(index) {
-		console.log(produto.images.big[index])
-		setCurrentImage(produto.images.big[index])
+		console.log(require(produto.images[index]))
+		setCurrentImage(require(produto.images[index]))
 	}
 
     return (
