@@ -35,7 +35,7 @@
                     "descricao": [
                         "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."                    ],
                     "images": [
-                        "../../assets/img/mesas/oficial/oficial_1.png"
+                        "../../assets/img/mesas/oficial/oficial_1.jpg"
                     ],
                     "medidas": [
                         { "externo": "1.55 X 2.82m", "interno": "1.27 X 2.54m" }
@@ -105,20 +105,6 @@
                         { "externo": "1.40 X 2.40m", "interno": "1.16 X 2.16m" },
                         { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
                         { "externo": "1.17 X 1.96m", "interno": "0.96 X 1.76m" }
-                    ]
-                },
-                { 
-                    "name": "Bilhar Residencial 3", 
-                    "descricao": [
-                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
-                    ],
-                    "images": [
-                        "../../assets/img/mesas/residencial-2/residencial_2-2.jpg"
-                    ],
-                    "medidas": [
-                        { "externo": "1.17 X 1.96m", "interno": "0.00 X 0.00m" },
-                        { "externo": "1.40 X 2.40m", "interno": "1.16 X 2.16m" },
-                        { "externo": "1.30 X 2.30m", "interno": "1.06 X 2.06m" }
                     ]
                 },
                 { 
@@ -215,6 +201,16 @@
                     ],
                     "images": [
                         "../../assets/img/mesas/lazer/poker4.png"                        
+                    ],
+                    "medidas": []
+                },
+                { 
+                    "name": "Poker 5", 
+                    "descricao": [
+                        "Mesas de lazer apenas pedindo orçamento."
+                    ],
+                    "images": [
+                        "../../assets/img/mesas/lazer/poker5.png"                        
                     ],
                     "medidas": []
                 },

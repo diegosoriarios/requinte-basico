@@ -3,6 +3,7 @@ import React from 'react'
 function Linhas({ name, categorias}) {
 
     console.log(categorias)
+    console.log(categorias[0].images[0])
     return (
         <>
             <div className="container mt-5">
@@ -24,8 +25,8 @@ function Linhas({ name, categorias}) {
                                     <button className="btn btn-dark"><i className="fa fa-cart-plus" aria-hidden="true"></i>Ver detalhes</button>
                                 </div>
                             </div>
-                        </div>                        
-                    </div>            
+                        </div>
+                    </div>
                 ))}
             </div>
         </>
