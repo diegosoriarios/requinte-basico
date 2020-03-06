@@ -7,7 +7,7 @@ export default function Produto({ name, produto }) {
     const [currentImage, setCurrentImage] = useState('')
 
     useEffect(() => {
-		if (produto.images.big > 0) {
+		if (produto.images > 0) {
 			setCurrentImage(require(produto.images[0]))
 		}
 	}, [])
