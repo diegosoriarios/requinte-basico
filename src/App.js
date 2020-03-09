@@ -41,9 +41,6 @@ export default function App() {
                   <Link className="nav-link" onClick={() => setProductOpen(false)} to="/produtos">Produtos</Link>
                 </li>
                 <li className="nav-item marginzinha">
-                  <Link className="nav-link" to="/acessorios">Acessórios</Link>
-                </li>
-                <li className="nav-item marginzinha">
                   <Link className="nav-link" to="/contato">Contato</Link>
                 </li>
               </ul>
@@ -54,9 +51,6 @@ export default function App() {
           <Switch>
             <Route path="/contato">
               <Contato />
-            </Route>
-            <Route path="/acessorios">
-              <Acessorios />
             </Route>
             <Route path="/produtos">
               <Produtos />
