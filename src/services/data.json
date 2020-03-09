@@ -6,21 +6,14 @@
                 { 
                     "name": "Bilhar Profissional 1", 
                     "descricao": [
-                        "Requinte e elegância para seu ambiente. O design dessa mesa mistura a beleza da madeira trabalhada com acabamentos precisos. Esse modelo está dentro das normas da Confederação Brasileira de Bilhar e Sinuca.",
-                        "Disponibilizamos de uma variedade de cores de madeira e tecido, entre em contato conosco e confira!"
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/1_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/1_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/1_3.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/1_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/1_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/1_3.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/profissional/profissional_11.jpg",
+                        "mesas/profissional/profissional_1.jpg",
+                        "mesas/profissional/profissional_1_gr_verd.jpg",
+                        "mesas/profissional/profissional_1_gr_verm.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.68 X 3.10m", "interno": "1.42 X 2.84m" }
                     ]
@@ -28,27 +21,11 @@
                 { 
                     "name": "Bilhar Profissional 2", 
                     "descricao": [
-                        "Esta mesa possui um design tradicional, trazendo requinte ao ambiente. Podem ser feitas em multilamina ou MDF, com pedra ardósia revestida por lã, garante 70% mais durabilidade. Também possui seis pés de madeira maciça , tornando-a mais resistente. Seu diferencial? Resistência unida ao requinte que só uma mesa tradicional pode proporcionar. Disponibilizamos de diversas cores para a madeira. Ente em contato conosco e confira!",
-                        "Este modelo está dentro das normas da Confederação Brasileira de Bilhar e Sinuca."
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/15_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/15_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/15_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/15_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/15_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/15_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/15_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/15_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/15_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/15_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/15_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/15_6.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/profissional/profissional_2.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.68 X 3.10m", "interno": "1.42 X 2.84m" }
                     ]
@@ -56,29 +33,10 @@
                 { 
                     "name": "Bilhar Oficial 1", 
                     "descricao": [
-                        "Desenvolvida e própria para torneios. Podem ser feitas em multilamina ou MDF, com pedra ardósia revestida por lã, garante 70% mais durabilidade e maior resistência, pois possui seis pés de madeira maciça. ",
-                        "Nessa mesa temos resistência e durabilidade, e um design único de madeira trabalhada.",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!",
-                        "Este modelo está dentro das normas da Confederação Brasileira de Bilhar e Sinuca."
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."                    ],
+                    "images": [
+                        "mesas/oficial/oficial_1.jpg"
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/16_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/16_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/16_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/16_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/16_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/16_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/16_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/16_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/16_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/16_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/16_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/16_6.jpg"
-                        ]
-                    },
                     "medidas": [
                         { "externo": "1.55 X 2.82m", "interno": "1.27 X 2.54m" }
                     ]
@@ -86,21 +44,11 @@
                 { 
                     "name": "Bilhar Oficial 2", 
                     "descricao": [
-                        "Esta mesa foi desenvolvida para quem gosta de beleza em um design trabalhado. Podem ser feitas em multilamina ou MDF, são utilizadas redes de barbante e seu acabamento em madeira ",
-                        "Este modelo está dentro das normas da Confederação Brasileira de Bilhar e Sinuca."
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/14_1.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/14_2.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/14_3.png"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/14_1.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/14_2.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/14_3.png"
-                        ]
-                    },
+                    "images": [
+                        "mesas/oficial/oficial_2.png"
+                    ],
                     "medidas": [
                         { "externo": "1.55 X 2.82m", "interno": "1.27 X 2.54m" }
                     ]
@@ -108,28 +56,11 @@
                 { 
                     "name": "Bilhar Oficial 3",
                     "descricao": [
-                        "Para quem busca durabilidade e resistência. Podem ser feitas em multilamina ou MDF, com pedra ardósia revestida por lã, que garante 70% mais durabilidade. É uma mesa de seis pés de madeira maciça, o que garante mais resistência e seu tamanho proporciona maior durabilidade e conforto. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! ",
-                        "Este modelo está dentro das normas da Confederação Brasileira de Bilhar e Sinuca."
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/17_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/17_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/17_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/17_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/17_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/17_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/17_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/17_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/17_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/17_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/17_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/17_6.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/oficial/oficial_3.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.55 X 2.82m", "interno": "1.27 X 2.54m" }
                     ]
@@ -142,27 +73,15 @@
                 { 
                     "name": "Bilhar Residencial 1", 
                     "descricao": [
-                        "Desfrute de seus momentos de lazer em sua própria casa. Esta mesa é feita para você que gosta de reunir os amigos e a família, em um ambiente descontraído e divertido.",
-                        "Ela é produzida em três tamanhos. O que permite que você escolha o que se encaixe melhor no ambiente desejado. ",
-                        "Requinte e elegância para seu ambiente. O design dessa mesa mistura a beleza da madeira trabalhada com acabamentos precisos.",
-                        "Disponibilizamos de uma variedade de cores de madeira e tecido, entre em contato conosco e confira!"
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/6_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/6_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/6_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/6_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/6_5.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/6_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/6_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/6_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/6_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/6_5.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/residencial/residencial-1/residencial_1.jpg",
+                        "mesas/residencial/residencial-1/residencial_1-2.jpg",
+                        "mesas/residencial/residencial-1/residencial_1-3.jpg",
+                        "mesas/residencial/residencial-1/residencial_1-4.jpg",
+                        "mesas/residencial/residencial-1/residencial_1-5.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.40 X 2.40m", "interno": "1.16 X 2.16m" },
                         { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
@@ -172,22 +91,16 @@
                 { 
                     "name": "Bilhar Residencial 2", 
                     "descricao": [
-                        "Esta mesa possui um modelo mais clássico, por isso se encaixa de maneira perfeita em qualquer ambiente.",
-                        "Podem ser feitas em multilamina ou MDF. Produzida com tampo de pedra ardósia e seu acabamento em madeira. Possui tamanhos diferenciados, garantindo que ela se adéque ao espaço que você tem disponível, proporcionando mais conforto na prática do bilhar. ",
-                        "Disponibilizamos de uma variedade de cores de madeira e tecido, entre em contato conosco e confira!"
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/18_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/18_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/18_3.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/18_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/18_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/18_3.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/residencial/residencial-2/residencial_2-2.jpg",
+                        "mesas/residencial/residencial-2/residencial_2-3.jpg",
+                        "mesas/residencial/residencial-2/residencial_2_tampo.jpg",
+                        "mesas/residencial/residencial-2/residencial_2-4.jpg",
+                        "mesas/residencial/residencial-2/residencial_2-5.jpg"
+
+                    ],
                     "medidas": [
                         { "externo": "1.40 X 2.40m", "interno": "1.16 X 2.16m" },
                         { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
@@ -195,53 +108,18 @@
                     ]
                 },
                 { 
-                    "name": "Bilhar Residencial 3", 
-                    "descricao": [
-                        "Ela é produzida em tamanhos diferenciados e acompanha tampo. Verifique o espaço que você tem disponível e invista em conforto e durabilidade. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!"
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/10_1.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/10_2.png"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/10_1.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/10_2.png"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.17 X 1.96m", "interno": "0.00 X 0.00m" },
-                        { "externo": "1.40 X 2.40m", "interno": "1.16 X 2.16m" },
-                        { "externo": "1.30 X 2.30m", "interno": "1.06 X 2.06m" }
-                    ]
-                },
-                { 
                     "name": "Bilhar Residencial 4", 
                     "descricao": [
-                        "Design, requinte, sofisticação e praticidade.",
-                        "Possui um design totalmente diferenciado e moderno. Este modelo residencial possui o pé trabalhado e um diferencial: uma tampa para a mesa, então ela não é somente uma ótima mesa de bilhar como também pode virar uma maravilhosa e moderna mesa de jantar. ",
-                        "Encontra-se dentro das normas da Confederação Brasileira de Bilhar e Sinuca. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/11_1.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/11_2.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/11_3.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/11_4.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/11_5.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/11_6.png"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/11_1.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/11_2.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/11_3.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/11_4.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/11_5.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/11_6.png"
-                        ]
-                    },
+                    "images":[
+                        "mesas/residencial/residencial-4/residencial_4-1.jpg",
+                        "mesas/residencial/residencial-4/residencial_4-2.jpg",                        
+                        "mesas/residencial/residencial-4/residencial_4_tampo.jpg",
+                        "mesas/residencial/residencial-4/residencial_4-3.jpg",
+                        "mesas/residencial/residencial-4/residencial_4-6.jpg",                        
+                        "mesas/residencial/residencial-4/residencial_4-4.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.40 X 2.40m", "interno": "1.14 X 2.14m" },
                         { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
@@ -251,23 +129,13 @@
                 { 
                     "name": "Bilhar Residencial 5", 
                     "descricao": [
-                        "Uma ótica tacada! Mais uma opção para você! ",
-                        "Este modelo é mais uma opção de formato e tamanho para proporcionar uma ótima escolha. Esta mesa também possuía uma tampa, que pode transformá-la em uma mesa de jantar.",
-                        "Encontra-se dentro das normas da Confederação Brasileira de Bilhar e Sinuca.",
-                        "DDisponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!"
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/12_1.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/12_2.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/12_3.png"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/12_1.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/12_2.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/12_3.png"
-                        ]
-                    },
+                    "images": [
+                        "mesas/residencial/residencial-5/residencial_5.jpg",
+                        "mesas/residencial/residencial-5/residencial_5_meio_tampo.jpg",
+                        "mesas/residencial/residencial-5/residencial_5_tampo.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.40 X 2.40m", "interno": "1.14 X 2.14m" },
                         { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
@@ -277,231 +145,18 @@
                 {
                     "name": "Bilhar Residencial 6", 
                     "descricao": [
-                        "Desfrute de seus momentos de lazer em sua própria casa. Esta mesa é feita para você que gosta de unir os amigos a família, em um ambiente descontraído e divertido. ",
-                        "Produzida em Multi-lâmina ou MDF, suas redes são de barbante e seu acabamento em madeira. Ela é produzida em três tamanhos. O que permite que você escolha o que se encaixe melhor no ambiente desejado. ",
-                        "Com esta mesa você terá beleza em um design trabalhado. Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
+                        "Acompanha: suporte de tacos, triangulo e jogo de bolas e giz profissional. Em várias cores."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_6.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/19_7.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_6.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/19_7.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/residencial/residencial-6/residencial_6.jpg",
+                        "mesas/residencial/residencial-6/residencial_6_meio_tampo.jpg",
+                        "mesas/residencial/residencial-6/residencial_6_ping-pong_sem_rede.jpg",
+                        "mesas/residencial/residencial-6/residencial_6_ping-pong.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.40 X 2.40m", "interno": "1.14 X 2.14m" },
                         { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
                         { "externo": "1.17 X 1.96m", "interno": "0.91 X 1.70m" }
-                    ]
-                },
-                { 
-                    "name": "Bilhar Residencial 7", 
-                    "descricao": [
-                        "Desfrute de seus momentos de lazer em sua própria casa. Esta mesa é feita para você que gosta de unir os amigos a família, em um ambiente descontraído e divertido. ",
-                        "Produzida em Multi-lâmina ou MDF, suas redes são de barbante e seu acabamento em madeira. Ela é produzida em três tamanhos. O que permite que você escolha o que se encaixe melhor no ambiente desejado.",
-                        "Com esta mesa você terá beleza em um design trabalhado. Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!  "
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/20_1.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/20_1.jpg"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.40 X 2.40m", "interno": "1.14 X 2.14m" },
-                        { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
-                        { "externo": "1.17 X 1.96m", "interno": "0.91 X 1.70m" }
-                    ]
-                },
-                { 
-                    "name": "Bilhar Residencial 8", 
-                    "descricao": [
-                        "Desfrute de seus momentos de lazer em sua própria casa. Esta mesa é feita para você que gosta de unir os amigos a família, em um ambiente descontraído e divertido.",
-                        "Produzida em Multi-lâmina ou MDF, suas redes são de barbante e seu acabamento em madeira. Ela é produzida em três tamanhos. O que permite que você escolha o que se encaixe melhor no ambiente desejado. ",
-                        "Com esta mesa você terá beleza em um design trabalhado. Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!"
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_6.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/21_7.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_6.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/21_7.jpg"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.40 X 2.40m", "interno": "1.14 X 2.14m" },
-                        { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
-                        { "externo": "1.17 X 1.96m", "interno": "0.91 X 1.70m" }
-                    ]
-                },
-                { 
-                    "name": "Residencial 9",
-                    "descricao": [
-                        "Uma ótica tacada! Mais uma opção para você! ",
-                        "Este modelo é mais uma opção de formato e tamanho para proporcionar uma ótima escolha. Esta mesa também possui uma tampa, que pode transformá-la em uma mesa de jantar.",
-                        "Encontra-se dentro das normas da Confederação Brasileira de Bilhar e Sinuca.",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!"
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/41_1.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/41_2.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/41_3.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/41_4.JPG"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/41_1.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/41_2.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/41_3.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/41_4.JPG"
-                        ]
-                    },
-                    "medidas": []
-                },
-                { 
-                    "name": "Residencial 10",
-                    "descricao": [
-                        "Uma ótica tacada! Mais uma opção para você!",
-                        "Este modelo é mais uma opção de formato e tamanho para proporcionar uma ótima escolha. Esta mesa também possui uma tampa, que pode transformá-la em uma mesa de jantar.",
-                        "Encontra-se dentro das normas da Confederação Brasileira de Bilhar e Sinuca.",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!"
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/42_1.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/42_2.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/42_3.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/42_4.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/42_5.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/42_6.JPG"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/42_1.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/42_2.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/42_3.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/42_4.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/42_5.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/42_6.JPG"
-                        ]
-                    },
-                    "medidas": []
-                },
-                {
-                    "name": "Residencial 11",
-                    "descricao": [
-                        "Ela é produzida em tamanhos diferenciados e acompanha tampo. Verifique o espaço que você tem disponível e invista em conforto e durabilidade. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira!"
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_1.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_2.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_3.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_4.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_5.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_6.JPG",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/78_7.JPG"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_1.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_2.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_3.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_4.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_5.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_6.JPG",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/78_7.JPG"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.17 X 1.96m", "interno": "0.91 X 1.70m" },
-                        { "externo": "1.30 X 2.30m", "interno": "1.04 X 2.04m" },
-                        { "externo": "1.40 X 2.40m", "interno": "1.14 X 2.14m" }
-                    ]
-                },
-                {
-                    "name": "Bilhar Comercial 1",
-                    "descricao": [
-                        "Negócios e lazer. Parceria perfeita para o seu empreendimento! ",
-                        "Este modelo comercial inclui gaveta para bolas e ficheiro. Um produto resistente que garante durabilidade e qualidade para o seu negócio. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/22_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/22_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/22_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/22_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/22_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/22_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/22_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/22_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/22_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/22_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/22_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/22_6.jpg"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.25 X 2.25m", "interno": "1.02 X 2.02m" }
-                    ]
-                },
-                {
-                    "name": "Bilhar Comercial 2",
-                    "descricao": [
-                        "Beleza e Requinte para o seu empreendimento. ",
-                        "Esta mesa apresenta um modelo totalmente clean com acabamentos precisos que tornam o modelo belo o seu estabelecimento sofisticado. ",
-                        "Inclui gaveta para bolas e ficheiro. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/13_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/13_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/13_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/13_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/13_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/13_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/13_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/13_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/13_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/13_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/13_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/13_6.jpg"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.25 X 2.25m", "interno": "1.02 X 2.02m" }
                     ]
                 }
             ]
@@ -510,147 +165,63 @@
             "name": "Lazer",
             "categorias": [
                 { 
-                    "name": "Xadrez", 
-                    "descricao": [],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/80_1.png"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/80_1.png"
-                        ]
-                    },
-                    "medidas": []
-                },
-                { 
                     "name": "Poker 1", 
                     "descricao": [
-                        "Para praticar, competir e se divertir! ",
-                        "Novidade nos produtos Globilhares a mesa de Poker surge com o intuito de se diferenciar das demais que já existem no mercado. ",
-                        "Ela é produzida especialmente para você, de acordo com a sua necessidade, já que é feita sob medida. Produzida em MDF, com o laminado também em MDF, está disponível em diversas cores. Seu principal diferencial? ",
-                        "Além de uma linda e requintada mesa de Poker, depois do jogo com os amigos, ela se transforma em uma bela mesa de jantar para você desfrutar com a sua família.",
-                        "Sua casa merece esse presente. Entre em contato conosco e saiba mais informações sobre este produto."
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/24_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/24_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/24_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/24_4.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/24_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/24_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/24_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/24_4.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/poker1.png"
+                    ],
                     "medidas": []
                 },
                 { 
                     "name": "Poker 2", 
                     "descricao": [
-                        "Para praticar, competir e se divertir! ",
-                        "Novidade nos produtos Globilhares a mesa de Poker surge com o intuito de se diferenciar das demais que já existem no mercado. ",
-                        "Ela é produzida especialmente para você, de acordo com a sua necessidade, já que é feita sob medida. Produzida em MDF, com o laminado também em MDF, está disponível em diversas cores. Seu principal diferencial? ",
-                        "Além de uma linda e requintada mesa de Poker, depois do jogo com os amigos, ela se transforma em uma bela mesa de jantar para você desfrutar com a sua família.",
-                        "Sua casa merece esse presente. Entre em contato conosco e saiba mais informações sobre este produto."
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/25_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/25_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/25_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/25_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/25_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/25_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/25_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/25_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/25_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/25_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/25_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/25_6.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/poker2.png"
+                    ],
                     "medidas": []
                 },
                 { 
                     "name": "Poker 3", 
                     "descricao": [
-                        "Para praticar, competir e se divertir! ",
-                        "Novidade nos produtos Globilhares a mesa de Poker surge com o intuito de se diferenciar das demais que já existem no mercado. ",
-                        "Ela é produzida especialmente para você, de acordo com a sua necessidade, já que é feita sob medida. Produzida em MDF, com o laminado também em MDF, está disponível em diversas cores. Seu principal diferencial? ",
-                        "Além de uma linda e requintada mesa de Poker, depois do jogo com os amigos, ela se transforma em uma bela mesa de jantar para você desfrutar com a sua família.",
-                        "Sua casa merece esse presente. Entre em contato conosco e saiba mais informações sobre este produto."
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/26_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/26_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/26_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/26_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/26_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/26_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/26_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/26_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/26_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/26_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/26_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/26_6.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/poker3.png"
+                    ],
                     "medidas": []
                 },
                 { 
                     "name": "Poker 4", 
                     "descricao": [
-                        "Para praticar, competir e se divertir! ",
-                        "Novidade nos produtos Globilhares a mesa de Poker surge com o intuito de se diferenciar das demais que já existem no mercado. ",
-                        "Ela é produzida especialmente para você, de acordo com a sua necessidade, já que é feita sob medida. Produzida em MDF, com o laminado também em MDF, está disponível em diversas cores. Seu principal diferencial? ",
-                        "Além de uma linda e requintada mesa de Poker, depois do jogo com os amigos, ela se transforma em uma bela mesa de jantar para você desfrutar com a sua família.",
-                        "Sua casa merece esse presente. Entre em contato conosco e saiba mais informações sobre este produto."
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/28_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/28_2.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/28_3.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/28_4.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/28_5.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/28_6.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/28_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/28_2.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/28_3.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/28_4.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/28_5.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/28_6.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/poker4.png"                        
+                    ],
+                    "medidas": []
+                },
+                { 
+                    "name": "Poker 5", 
+                    "descricao": [
+                        "Mesas de lazer apenas pedindo orçamento."
+                    ],
+                    "images": [
+                        "mesas/lazer/poker5.png"                        
+                    ],
                     "medidas": []
                 },
                 { 
                     "name": "Carteado 1",
                     "descricao": [
-                        "Nesta mesa você pode apostar todas as suas fichas!",
-                        "Produzida em MDF, possui o pé trabalhado, e você pode escolher o trabalho que preferir. Possui gavetas e também porta copos para o seu maior conforto ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/9_1.jpg",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/9_2.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/9_1.jpg",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/9_2.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/carteado1.png"
+                    ],
                     "medidas": [
                         { "externo": "1.25 X 0.00m", "interno": "0.00 X 0.00m" }
                     ]
@@ -658,18 +229,11 @@
                 { 
                     "name": "Carteado 2",
                     "descricao": [
-                        "Reúna seus amigos e tenha uma carta na manga! ",
-                        "Existe coisa melhor do que reunir os amigos para um bom carteado? Este é o modelo mais tradicional de mesas de carteado que vai lhe proporcionar momentos inesquecíveis. ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/8_1.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/8_1.jpg"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/carteado2.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.25 X 0.00m", "interno": "0.00 X 0.00m" }
                     ]
@@ -677,69 +241,16 @@
                 { 
                     "name": "Pebolim 1",
                     "descricao": [
-                        "Apaixonado por futebol? Futebol de mesa, jogue essa partida! ",
-                        "Produzida somente em multilamina, com ferros embutidos, a mesa de Pebolim inclui 7 bolinhas. ",
-                        "Disponibilizamos diversas cores para a madeira. Entre em contato conosco e confira! "
+                        "Mesas de lazer apenas pedindo orçamento."
                     ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/7_1.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/7_2.png",
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/7_3.png"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/7_1.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/7_2.png",
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/7_3.png"
-                        ]
-                    },
+                    "images": [
+                        "mesas/lazer/pebolim1.jpg"
+                    ],
                     "medidas": [
                         { "externo": "1.00 X 0.80m", "interno": "0.00 X 0.00m" }
-                    ]
-                },
-                { 
-                    "name": "Tênis de Mesa",
-                    "descricao": [
-                        "Para praticar, competir e se divertir! ",
-                        "Considerado um dos esportes mais populares do mundo, conhecido também como ping pong, faz a alegria de pessoas de todas as idades. ",
-                        "Produzida 100% em MDF 15 milímetros, a pintura é feita com tinta PU, a base de poliuretano, que garante mais resistência e brilho ao longo do tempo.  ",
-                        "Disponibilizamos de diversas cores para a madeira. Entre em contato conosco e confira! "
-                    ],
-                    "images": {
-                        "big": [],
-                        "small": []
-                    },
-                    "medidas": [
-                        { "externo": "1.52 X 2.74m", "interno": "0.00 X 0.00m" }
-                    ]
-                },
-                { 
-                    "name": "Pebolim 2",
-                    "descricao": [
-                        "Apaixonado por futebol? Futebol de mesa, jogue essa partida!",
-                        "Produzida somente em multilamina, com ferros embutidos, a mesa de Pebolim inclui 7 bolinhas. ",
-                        "Disponibilizamos diversas cores para a madeira. Entre em contato conosco e confira! "
-                    ],
-                    "images": {
-                        "big": [
-                            "http://www.globilhares.com.br/r/w486-h293/product_gallery/97_1.jpg"
-                        ],
-                        "small": [
-                            "http://www.globilhares.com.br/r/w80-h40/product_gallery/97_1.jpg"
-                        ]
-                    },
-                    "medidas": [
-                        { "externo": "1.43 X 0.83m", "interno": "1.16 X 0.76m" }
                     ]
                 }
             ]
         }
-    ],
-    "acessorios": [
-        { "name": "Suporte de Tacos", "subtitle": "", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/2_1.jpg" },
-        { "name": "Triângulo e Jogo de Bolas", "subtitle": "", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/3_1.jpg" },
-        { "name": "Bolas", "subtitle": "", "images": "" },
-        { "name": "Giz Profissional", "subtitle": "", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/5_1.jpg" },
-        { "name": "Alvo dardo magnético", "subtitle": "Acompanha manta dupla face de 6 dardos.", "images": "http://www.globilhares.com.br/r/w521-h345-c/product/79_1.png" }
     ]
 }

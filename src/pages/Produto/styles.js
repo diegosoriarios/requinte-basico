@@ -4,13 +4,13 @@ export const Item = styled.li`
     width: 50px;
     height: 50px;
     margin-left: 10px;
-    background-image: url(${props => props.url}); 
-    background-repeat: no-repeat;
+    
 `
 
-export const ItemImage = styled.div`
-    background-image: url(${props => props.url}); 
-    background-repeat: no-repeat;
+export const ItemImage = styled.img`
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
 `
 
 export const Grid = styled.div`

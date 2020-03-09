@@ -8,14 +8,13 @@ export default function Produto({ name, produto }) {
     const [currentImage, setCurrentImage] = useState('')
 
     useEffect(() => {
-		if (produto.images.big > 0) {
-			setCurrentImage(produto.images.big[0])
+		if (produto.images.length > 0) {
+			setCurrentImage(produto.images[0])
 		}
 	}, [])
 	
 	function changeImage(index) {
-		console.log(produto.images.big[index])
-		setCurrentImage(produto.images.big[index])
+		setCurrentImage(produto.images[index])
 	}
 
     return (
@@ -63,9 +62,9 @@ export default function Produto({ name, produto }) {
 					{/*<img className="bigger" id="main-mesa" src={currentImage} alt="mesa1" />*/}
 					<ul className="colors text-center small">
                 		{
-							produto.images.small.map((img, i) => (
+							produto.images.map((img, i) => (
 								<Item key={i} className="inline-block float-left" id="table-1" data-img="1" url={img} onClick={() => changeImage(i)}>
-									<ItemImage className="bg" url={img} />
+									<ItemImage className="bg" src={img} />
 								</Item>  
 							))
 						}

@@ -1,26 +1,28 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useContext } from 'react'
 import VideoBackground from '../../components/VideoBackground'
 import Categorias from '../../components/Categorias'
 import data from '../../services/data.json'
 import Produto from '../Produto'
+import BoardContext from '../../services/context'
 
 function Produtos() {
     const [dados, setDados] = useState({})
     const [load, setLoad] = useState(true)
-    const [productOpen, setProductOpen] = useState(false)
     const [productName, setProductName] = useState('')
     const [product, setProduct] = useState({})
+
+    const { productOpen, changeProductOpen, } = useContext(BoardContext)
     
     useEffect(() => {
         setDados(data.categories)
         setLoad(false)
-        setProductOpen(false)
+        changeProductOpen(false)
     }, [])
 
     function openProduct(name, product) {
         setProductName(name)
         setProduct(product)
-        setProductOpen(true)
+        changeProductOpen(true)
     }
     
     if (load) return null
