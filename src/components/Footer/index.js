@@ -32,7 +32,7 @@ function Footer() {
 
 				    <div className="col-md-3">
 					    <div className="row">
-    						<h5>© DEMI INC.</h5>
+    						<h5>© WindThree</h5>
 					    </div>
 					    <div className="row mb-4">
     						<div className="underline bg-light"></div>
