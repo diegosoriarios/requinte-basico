@@ -20,13 +20,13 @@ body {
 .video-background {
   position: relative;
   width: 100%;
-  min-height: 100vh;
+  {/*min-height: 40vh;*/}
   background-color: rgba(0, 0, 0, 0.2);
 }
 
 .caption {
   position: absolute;
-  top: 38%;
+  /*top: 38%;*/
   width: 100%;
   color: white;
 }
@@ -115,3 +115,7 @@ Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 
 =============*/
+
+.p-middle {
+  color: white;
+}

@@ -38,7 +38,7 @@ function Produtos() {
     return (
         <>
 
-            <VideoBackground title={"Produtos"} subtitle={""} />
+            <VideoBackground title={"Produtos"} subtitle={""} display={'40vh'}/>
 
             <div className="container-fluid bg-light-gray pt-5 pb-5">
 

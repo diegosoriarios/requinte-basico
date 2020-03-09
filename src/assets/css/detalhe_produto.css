@@ -64,6 +64,15 @@ ul {
     margin: 50px 0;
 }
 
+.imgs {
+    height: 150px;
+    object-fit: fill;
+}
+
+.box {
+    margin: 1% 0;
+}
+
 .accessories p, .dimensions p {
     color: #969696;
 }

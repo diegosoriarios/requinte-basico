@@ -22,9 +22,9 @@ function Categorias({ name, categorias, openProduct }) {
                 <div className="row">
                     {
                         categorias.map(categoria => (
-                            <div className="col-md-3">
+                            <div className="col-md-3 box">
                                 <div className="card">
-                                    <img src={categoria.images[0]} className="card-img-top" alt="card-img-topo" />
+                                    <img src={categoria.images[0]} className="card-img-top imgs" alt="card-img-topo" />
                                     <div className="card-body">
                                         <h4>{categoria.name}</h4>
                                         <button onClick={() => handleProduct(name, categoria)} className="btn btn-dark"><i className="fa fa-cart-plus" aria-hidden="true"></i>Ver detalhes</button>

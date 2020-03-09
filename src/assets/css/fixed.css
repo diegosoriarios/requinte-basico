@@ -64,7 +64,13 @@ margin-right: 0px!important;
 
 .card-body{text-align: center; min-height: 20vh}
 
-.blog .media img{ max-width: 200px; height: auto;}
+.blog {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 0 5%;
+}
+
+.blog .media img{ max-width: 200px; height: auto; object-fit: fill;}
 
 footer ul{text-decoration: none; list-style-type: none;}
 
