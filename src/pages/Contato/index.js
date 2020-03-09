@@ -4,7 +4,7 @@ import VideoBackground from '../../components/VideoBackground'
 function Contato() {
     return (
         <>
-            <VideoBackground title="" subtitle="" display="40vh"/>
+            <VideoBackground title="Contato" subtitle="" display="40vh"/>
             <center>
             <section id="contact" className="parallax-section">
                 <div className="container">
