@@ -1,4 +1,5 @@
 import React from 'react'
+import emailjs from 'emailjs-com';
 import VideoBackground from '../../components/VideoBackground'
 
 function Contato() {
@@ -20,21 +21,21 @@ function Contato() {
 
                     <div className="col-md-12 col-sm-12">
                     <div className="wow fadeInUp" data-wow-delay="0.4s">
-                        <form id="contact-form" action="#" method="get">
+                        <form id="contact-form" onSubmit={sendEmail}>
                                 <div className="col-md-6 col-sm-6">
-                                    <input type="text" className="form-control" name="name" placeholder="Name" required="" />
+                                    <input type="text" className="form-control" name="user_name" placeholder="Name" required="" />
                                 </div>
                                 <div className="col-md-6 col-sm-6">
-                                    <input type="email" className="form-control" name="email" placeholder="Email" required="" />
+                                    <input type="email" className="form-control" name="user_email" placeholder="Email" required="" />
                                 </div>
                                 <div className="col-md-6 col-sm-6">
-                                    <input type="produto" className="form-control" name="produto" placeholder="Produto" required="" />
+                                    <input type="produto" className="form-control" name="user_product" placeholder="Produto" required="" />
                                 </div>
                                 <div className="col-md-9 col-sm-12">
                                     <textarea className="form-control" rows="5" name="message" placeholder="Message" required=""></textarea>
                                 </div>
                                 <div className="col-md-offset-8 col-md-4 col-sm-offset-6 col-sm-6">
-                                    <button id="submit" type="submit" className="form-control" name="submit">Send Message</button>
+                                    <button id="submit" type="submit" className="form-control" name="submit" value="Send">Send Message</button>
                                 </div>
                             </form>
                     </div>
@@ -47,4 +48,15 @@ function Contato() {
     )
 }
 
-export default Contato
+export default Contato {
+    function sendEmail(e) {
+        e.preventDefault();
+    
+        emailjs.sendForm('smtp_server', 'template_LuKDBKoW', e.target, 'user_UlaoCvVaMS4uOSD4KwF11')
+          .then((result) => {
+              console.log(result.text);
+          }, (error) => {
+              console.log(error.text);
+          });
+      }
+}
